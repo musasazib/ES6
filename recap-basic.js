@@ -39,7 +39,7 @@ if (numbers.includes(222)) {
 }
 
 // Loop--------------------------------------
-// While loop, For Loop
+// While loop, For loop
 for (const number of numbers) {
     
 }
