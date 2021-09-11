@@ -15,4 +15,4 @@
 // const salman = new Support('Salmon Khan', 'BD');
 // const shaown = new Support('Shown Kura Bissau', 'Nagano');
 // const rabbi = new Support('Gloam Rabbi', 'Pahari Pur');
-// const hasib = new Support('Hahiful Hasib', 'Rajshahi');
+const hasib = new Support('Hahiful Hasib', 'Rajshahi');
