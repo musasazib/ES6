@@ -15,7 +15,7 @@ const amir = new Support('Amir Khan', 'Dubai');
 const salman = new Support('Salman Khan', 'BD');
 const shaown = new Support('Showon Kumar Bissash', 'Naogaon');
 const rabbi = new Support('Golam Rabbi', 'Pahar Pur');
-const hasib = new Support('Hahiful Hasib', 'Rajshahi');
+const hasib = new Support('Handful Hasib', 'Rajshahi');
 amir.startSession();
 salman.startSession();
 shaown.startSession();
