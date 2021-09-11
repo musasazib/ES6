@@ -23,7 +23,7 @@ console.log(Blacks);
 
 
 // find -------------------
-const findItem = products.find(pd => pd.color == 'pink');
+const findItem = products.find(pd => pd.color == 'yellow');
 console.log(findItem);
 
 const findItem2 = products.find(pd => pd.color == 'purple');
